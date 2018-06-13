@@ -1,0 +1,2 @@
+function addgit(url){console.log("git remote add origin " + url
+" git push -u origin master")}
